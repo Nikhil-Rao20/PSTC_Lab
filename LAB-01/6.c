@@ -1,3 +1,5 @@
+// Program Name : Checking the number is positive, negaitve or zero
+// Author : S Nikhileswara Rao
 #include<stdio.h>
 int main(){
 	int n;
