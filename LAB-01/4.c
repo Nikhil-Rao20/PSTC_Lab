@@ -1,3 +1,5 @@
+// Program name : Swapping numbers without third variable
+//  Author : S Nikhileswara Rao
 #include<stdio.h>
 int main(){
 	int a=10, b=20;
