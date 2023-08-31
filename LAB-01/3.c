@@ -1,3 +1,5 @@
+// Program Name: Maths Calculator
+// Author : S Nikhileswara Rao
 #include<stdio.h>
 #include<math.h>
 int main(){
