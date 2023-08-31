@@ -1,3 +1,6 @@
+// Program name : Even or odd number
+// Author : S Nikhileswara Rao
+
 #include<stdio.h>
 int main(){
 	int n;
