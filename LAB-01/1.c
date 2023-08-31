@@ -1,3 +1,5 @@
+//  Program : Size of data types
+// Author : S Nikhileswara Rao
 #include<stdio.h>
 int main(){
 	int a;
