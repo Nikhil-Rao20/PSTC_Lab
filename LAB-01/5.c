@@ -1,3 +1,5 @@
+// Program name : Check for the sqaure root
+// Author : S Nikhileswara Rao
 #include<stdio.h>
 #include<math.h>
 int main(){
