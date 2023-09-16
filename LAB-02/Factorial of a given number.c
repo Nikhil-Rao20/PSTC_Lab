@@ -1,3 +1,4 @@
+// Author : M Sai Manikanta Eswar
 #include<stdio.h>
 void main(){
 	int i, num, fact;
